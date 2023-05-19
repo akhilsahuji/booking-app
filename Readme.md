@@ -1,4 +1,5 @@
-# ⌯Go Conference Booking App
+# ⌯Go Conference Booking App [:octocat:](https://github.com/akhilsahuji/booking-app)
+
 
 This is a simple booking CLI application for the Go Conference. It allows users to book tickets for the conference, tracks the remaining tickets, and sends a confirmation email to the user.
 
@@ -31,9 +32,6 @@ The Go Conference 2023 Booking App offers the following features:
 
 The Go Conference 2023 Booking App has no external dependencies.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
