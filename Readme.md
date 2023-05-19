@@ -1,4 +1,4 @@
-# Go Conference Booking App
+# ⌯Go Conference Booking App
 
 This is a simple booking application for the Go Conference 2023. It allows users to book tickets for the conference, tracks the remaining tickets, and sends a confirmation email to the user.
 
