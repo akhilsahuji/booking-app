@@ -1,4 +1,4 @@
-# ⌯Go Conference Booking App [View on GitHub](https://github.com/akhilsahuji/booking-app)
+# ⌯Go Conference Booking App ([View on GitHub](https://github.com/akhilsahuji/booking-app))
 
 
 This is a simple booking CLI application for the Go Conference. It allows users to book tickets for the conference, tracks the remaining tickets, and sends a confirmation email to the user.
